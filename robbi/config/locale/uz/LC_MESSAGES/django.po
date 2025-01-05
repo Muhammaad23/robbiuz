@@ -1,0 +1,5 @@
+msgid "Welcome to our multilingual API!"
+msgstr "Bizning ko‘p tilda ishlaydigan APIga xush kelibsiz!"
+
+msgid "You can switch languages using the 'lang' parameter."
+msgstr "'lang' parametri orqali tilni o‘zgartirishingiz mumkin."

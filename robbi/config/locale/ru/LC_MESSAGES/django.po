@@ -1,0 +1,5 @@
+msgid "Welcome to our multilingual API!"
+msgstr "Добро пожаловать в наш многоязычный API!"
+
+msgid "You can switch languages using the 'lang' parameter."
+msgstr "Вы можете изменить язык, используя параметр 'lang'."
